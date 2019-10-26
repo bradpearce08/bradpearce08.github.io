@@ -1,0 +1,63 @@
+.container {
+    margin: auto;
+    width: 75%;
+    padding-bottom: 50px;
+    background-color: beige
+}
+
+.header h1{
+     
+    font-family: 'Times new Roman', Times, serif;
+    color: black;
+    margin: auto;
+    text-align: center;
+}
+
+.header p{
+    
+    font-family: 'Times new Roman', Times, serif;
+    color: black;
+    margin: auto;
+    text-align: center;
+}
+
+#experience-header{
+    margin-left: 10px;
+}
+
+#experience {
+    
+    margin-left: 30px;
+}
+
+#KHG {
+    border-bottom: ridge;
+}
+
+#MPH{
+    border-bottom: ridge;
+}
+
+#Mag{
+    border-bottom: ridge;
+}
+
+#Army{
+    border-bottom: ridge;
+}
+
+#Noble{
+    border-bottom: ridge;
+}
+
+#Interzone{
+    border-bottom: ridge;
+}
+
+#other-info h3{
+    margin-left: 10px;
+}
+
+#other-info p{
+    margin-left: 30px;
+}
